@@ -1,0 +1,86 @@
+
+body{
+    margin: 0;
+}
+.navbar ul{
+    background-color: black;
+    padding: 0px;
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+.navbar li{
+    float: left;
+}
+
+.navbar a{
+    color:whitesmoke;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px;
+}
+
+.navbar a:hover{
+    background-color: white;
+    color: black;
+}
+
+h2,h3{
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    font-size:xxx-large;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-weight: 600;
+    font-style:italic;
+  }
+
+  .side {
+    display: flex;
+    align-items: center;
+}
+
+.side img {
+    max-width: 100%;
+    margin-right: 20px; /* Add margin to separate image from paragraphs */
+    margin-bottom: 5px;
+    
+}
+
+.side div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
+
+section{
+    background-color: black;
+    color:whitesmoke;
+}
+.sidea {
+    display: flex;
+    align-items: center;
+}
+
+.sidea img {
+    max-width: 100%;
+    margin-right: 20px; 
+    margin-bottom: 5px;
+    
+}
+
+.sidea div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
+
+

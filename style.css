@@ -1,0 +1,124 @@
+.container {
+    text-align: center;
+    color: white;
+    margin-bottom: 0x;
+}
+
+.bottom-left {
+    font-size:xxx-large;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-weight: 600;
+    font-style:italic;
+  }
+
+  .top-left{
+    font-size:xxx-large;
+    position: absolute;
+    bottom: 55px;
+    left: 16px;
+    font-weight: 600;
+    font-style:italic;
+
+  }
+
+.one{
+    margin: 10px;
+    font-weight: 600;
+    margin-top: 0px;
+}
+
+.two{
+    margin-left: 150px;
+    font-weight: 600;
+}
+
+.three{
+    margin-left: 360px;
+    font-weight: 600;
+}
+
+.four{
+    margin-left: 650px;
+    font-weight: 600;
+}
+
+.side {
+    display: flex;
+    align-items: center;
+}
+
+.side img {
+    max-width: 100%;
+    margin-right: 20px; 
+    margin-bottom: 5px;
+    
+}
+
+.side div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
+body{
+    margin: 0;
+}
+
+section{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.sideb {
+    display: flex;
+    align-items: center;
+}
+
+.sideb img {
+    max-width: 100%;
+    margin-right: 20px; 
+    margin-bottom: 5px;
+    
+}
+
+.sideb div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
+
+.sidec {
+    display: flex;
+    align-items: center;
+}
+
+.sidec img {
+    max-width: 100%;
+    margin-right: 20px; 
+    margin-bottom: 5px;
+    
+}
+
+.sidec div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
+.sided {
+    display: flex;
+    align-items: center;
+}
+
+.sided img {
+    max-width: 100%;
+    margin-right: 20px; 
+    margin-bottom: 5px;
+    
+}
+
+.sided div {
+    display: flex;
+    flex-direction: column; /* Set the flex-direction to column */
+    
+}
